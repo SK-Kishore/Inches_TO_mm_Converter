@@ -1,0 +1,10 @@
+E:\Visual Studio\New folder\Inches_To_mm_Converter\Inches_To_mm_Converter\bin\Debug\Inches_To_mm_Converter.exe.config
+E:\Visual Studio\New folder\Inches_To_mm_Converter\Inches_To_mm_Converter\bin\Debug\Inches_To_mm_Converter.exe
+E:\Visual Studio\New folder\Inches_To_mm_Converter\Inches_To_mm_Converter\bin\Debug\Inches_To_mm_Converter.pdb
+E:\Visual Studio\New folder\Inches_To_mm_Converter\Inches_To_mm_Converter\obj\Debug\Inches_To_mm_Converter.csproj.AssemblyReference.cache
+E:\Visual Studio\New folder\Inches_To_mm_Converter\Inches_To_mm_Converter\obj\Debug\Inches_To_mm_Converter.Form1.resources
+E:\Visual Studio\New folder\Inches_To_mm_Converter\Inches_To_mm_Converter\obj\Debug\Inches_To_mm_Converter.Properties.Resources.resources
+E:\Visual Studio\New folder\Inches_To_mm_Converter\Inches_To_mm_Converter\obj\Debug\Inches_To_mm_Converter.csproj.GenerateResource.cache
+E:\Visual Studio\New folder\Inches_To_mm_Converter\Inches_To_mm_Converter\obj\Debug\Inches_To_mm_Converter.csproj.CoreCompileInputs.cache
+E:\Visual Studio\New folder\Inches_To_mm_Converter\Inches_To_mm_Converter\obj\Debug\Inches_To_mm_Converter.exe
+E:\Visual Studio\New folder\Inches_To_mm_Converter\Inches_To_mm_Converter\obj\Debug\Inches_To_mm_Converter.pdb
